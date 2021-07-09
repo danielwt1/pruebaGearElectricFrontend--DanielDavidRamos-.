@@ -1,0 +1,2 @@
+Para correr el front  tiene que tener React ya que se uso este framework libreria de JS , estar en la carpeta llamada frontend 
+si tiene instalado yarn puede usar- yarn start- para inicar la aplicacion o en su defecto usando -npm start-
